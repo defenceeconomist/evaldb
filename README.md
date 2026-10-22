@@ -2,6 +2,10 @@
 
 A static library of 28 screened defence evaluation and audit records for MOD business cases. The first page shows a searchable table with left-side filters; report titles open detailed summaries, evidence limits and original sources. There is no shortlist functionality.
 
+Live site: https://defenceeconomist.github.io/evaldb/
+
+GitHub Actions builds, validates and deploys only `ui/dist/` after each push to `master`.
+
 ## Run locally
 
 ```sh
