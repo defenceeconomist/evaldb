@@ -11,9 +11,9 @@ const browser=await chromium.launch({channel:'chrome',headless:true});
 const page=await browser.newPage({viewport:{width:1440,height:1000},acceptDownloads:true});const errors=[];page.on('pageerror',e=>errors.push(e.message));
 try {
  await page.goto(base);assert.equal(await page.locator('#evaluation-list tr').count(),28);
- assert.equal(await page.locator('[data-save],#view-saved').count(),0);
+ assert.equal(await page.locator('[data-save],#view-saved,#case-filter').count(),0);assert.equal(await page.locator('.records-table th').count(),6);
  await page.screenshot({path:path.join(output,'library-desktop.png')});
- const filterSpec={case:'business_case_uses',topic:'topics',type:'evidence_type',country:'country',access:'access_level'};
+ const filterSpec={topic:'topics',type:'evidence_type',country:'country',access:'access_level'};
  for(const [key,field] of Object.entries(filterSpec)){
   const value=Array.isArray(records[0][field])?records[0][field][0]:records[0][field];
   await page.locator('#'+key+'-filter').selectOption(value);
@@ -22,9 +22,9 @@ try {
   await page.reload();assert.equal(await page.locator('#'+key+'-filter').inputValue(),value);
   await page.locator('#clear-filters').click();assert.equal(await page.locator('#evaluation-list a').count(),28);
  }
- await page.locator('#case-filter').selectOption(records[0].business_case_uses[0]);
+ await page.locator('#topic-filter').selectOption(records[0].topics[0]);
  await page.locator('#country-filter').selectOption(records[0].country);
- const combined=records.filter(r=>r.business_case_uses.includes(records[0].business_case_uses[0])&&r.country===records[0].country);
+ const combined=records.filter(r=>r.topics.includes(records[0].topics[0])&&r.country===records[0].country);
  assert.equal(await page.locator('#evaluation-list a').count(),combined.length);
  await page.locator('#evaluation-list a').first().click();await page.locator('#back-to-results').click();
  assert.equal(await page.locator('#country-filter').inputValue(),records[0].country);
