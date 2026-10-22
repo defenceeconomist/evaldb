@@ -1,0 +1,1601 @@
+{
+  "EVAL-001": {
+    "selection_status": "Include",
+    "selection_reason": "Completed evaluation with identifiable methods, findings and source locators. Its evidence directly supports the decision use below, within the report’s stated scope.",
+    "criteria_results": {
+      "C1": "Pass",
+      "C2": "Pass",
+      "C3": "Pass",
+      "C4": "Pass",
+      "C5": "Pass",
+      "C6": "Pass",
+      "C7": "Pass",
+      "C8": "Pass"
+    },
+    "review_date": "2026-09-17",
+    "review_basis": "Editorial screening of existing summaries, source metadata and scope notes; targeted source checks. Not a full independent methodological appraisal.",
+    "evidence_type": "Programme evaluation",
+    "evidence_family": "Evaluation",
+    "business_case_uses": [
+      "Management",
+      "Economic"
+    ],
+    "topics": [
+      "Training & skills"
+    ],
+    "decision_use": "Specify instructor capacity, learner feedback and quality measures when appraising military training provision.",
+    "transfer_boundary": "Methods summarised from evidence described throughout the report; no standalone methods annex. Use to inform design and delivery assumptions; no transferable causal effect is established by this summary.",
+    "relevance_basis": "International defence comparator",
+    "access_level": "Full report consulted",
+    "uk_mod_relevance": "Relevant to MOD training capacity, course quality and learner feedback; policing duties and Canadian training arrangements require adaptation.",
+    "review_action": "Retain; check current applicability when using in a new business case.",
+    "related_records": []
+  },
+  "EVAL-002": {
+    "selection_status": "Include with limits",
+    "selection_reason": "Indirect comparator: marine navigation service delivery is relevant to digital change and asset management, but does not demonstrate a military capability effect.",
+    "criteria_results": {
+      "C1": "Conditional",
+      "C2": "Pass",
+      "C3": "Pass",
+      "C4": "Pass",
+      "C5": "Pass",
+      "C6": "Pass",
+      "C7": "Pass",
+      "C8": "Pass"
+    },
+    "review_date": "2026-09-17",
+    "review_basis": "Editorial screening of existing summaries, source metadata and scope notes; targeted source checks. Not a full independent methodological appraisal.",
+    "evidence_type": "Programme evaluation",
+    "evidence_family": "Evaluation",
+    "business_case_uses": [
+      "Management",
+      "Strategic"
+    ],
+    "topics": [
+      "Digital & data",
+      "Readiness & resilience"
+    ],
+    "decision_use": "Plan digital navigation changes around ageing assets, user needs and shared responsibilities.",
+    "transfer_boundary": "Industry participation was limited; the evaluators did not generalise from the small industry sample. Establish a MOD-specific mechanism and context before transferring findings.",
+    "relevance_basis": "Indirect comparator",
+    "access_level": "Full report consulted",
+    "uk_mod_relevance": "Relevant to naval support services and digital asset change; transfer is indirect and civilian service outcomes differ from military readiness.",
+    "review_action": "Apply the stated limits when citing; obtain fuller source detail where decision-critical.",
+    "related_records": []
+  },
+  "EVAL-003": {
+    "selection_status": "Include",
+    "selection_reason": "Completed evaluation with identifiable methods, findings and source locators. Its evidence directly supports the decision use below, within the report’s stated scope.",
+    "criteria_results": {
+      "C1": "Pass",
+      "C2": "Pass",
+      "C3": "Pass",
+      "C4": "Pass",
+      "C5": "Pass",
+      "C6": "Pass",
+      "C7": "Pass",
+      "C8": "Pass"
+    },
+    "review_date": "2026-09-17",
+    "review_basis": "Editorial screening of existing summaries, source metadata and scope notes; targeted source checks. Not a full independent methodological appraisal.",
+    "evidence_type": "Programme evaluation",
+    "evidence_family": "Evaluation",
+    "business_case_uses": [
+      "Commercial",
+      "Management",
+      "Economic"
+    ],
+    "topics": [
+      "Acquisition & support"
+    ],
+    "decision_use": "Challenge fixed requirements and test how acquisition options will adapt to changing user needs.",
+    "transfer_boundary": "Findings centre on patrol vehicles and machine-gun upgrades, rather than every land acquisition. Use to inform design and delivery assumptions; no transferable causal effect is established by this summary.",
+    "relevance_basis": "International defence comparator",
+    "access_level": "Full report consulted",
+    "uk_mod_relevance": "Relevant to MOD land acquisition, adaptable requirements and user consultation; based on two Canadian cases, not all procurement routes.",
+    "review_action": "Retain; check current applicability when using in a new business case.",
+    "related_records": []
+  },
+  "EVAL-004": {
+    "selection_status": "Include with limits",
+    "selection_reason": "Official five-page evaluation summary supports readiness and coordination lessons; full evaluation detail was not available in the material consulted.",
+    "criteria_results": {
+      "C1": "Pass",
+      "C2": "Pass",
+      "C3": "Pass",
+      "C4": "Conditional",
+      "C5": "Pass",
+      "C6": "Pass",
+      "C7": "Pass",
+      "C8": "Pass"
+    },
+    "review_date": "2026-09-17",
+    "review_basis": "Editorial screening of existing summaries, source metadata and scope notes; targeted source checks. Not a full independent methodological appraisal.",
+    "evidence_type": "Programme evaluation",
+    "evidence_family": "Evaluation",
+    "business_case_uses": [
+      "Management",
+      "Strategic"
+    ],
+    "topics": [
+      "Readiness & resilience",
+      "Training & skills"
+    ],
+    "decision_use": "Define ownership, joint training dependencies and credible readiness measures before promising deployable capability.",
+    "transfer_boundary": "Based on the published five-page report summary, not a full evaluation report.",
+    "relevance_basis": "International defence comparator",
+    "access_level": "Summary / extract / highlights",
+    "uk_mod_relevance": "Relevant to joint UK readiness governance and allied interoperability; evidence is limited to an official report summary.",
+    "review_action": "Apply the stated limits when citing; obtain fuller source detail where decision-critical.",
+    "related_records": [],
+    "evidence_access_basis": "Official five-page report summary consulted; full evaluation report not consulted"
+  },
+  "EVAL-005": {
+    "selection_status": "Include",
+    "selection_reason": "Completed evaluation with identifiable methods, findings and source locators. Its evidence directly supports the decision use below, within the report’s stated scope.",
+    "criteria_results": {
+      "C1": "Pass",
+      "C2": "Pass",
+      "C3": "Pass",
+      "C4": "Pass",
+      "C5": "Pass",
+      "C6": "Pass",
+      "C7": "Pass",
+      "C8": "Pass"
+    },
+    "review_date": "2026-09-17",
+    "review_basis": "Editorial screening of existing summaries, source metadata and scope notes; targeted source checks. Not a full independent methodological appraisal.",
+    "evidence_type": "Programme evaluation",
+    "evidence_family": "Evaluation",
+    "business_case_uses": [
+      "Strategic",
+      "Management"
+    ],
+    "topics": [
+      "People & culture"
+    ],
+    "decision_use": "Segment retention interventions by career stage and specify how local initiatives will be evaluated.",
+    "transfer_boundary": "Limited to Regular Force voluntary releases. Methods are described through the evidence used, without a standalone methods annex. Use to inform design and delivery assumptions; no transferable causal effect is established by this summary.",
+    "relevance_basis": "International defence comparator",
+    "access_level": "Full report consulted",
+    "uk_mod_relevance": "Relevant to MOD retention policy and career-stage targeting; Canadian employment terms and voluntary-release patterns may differ.",
+    "review_action": "Retain; check current applicability when using in a new business case.",
+    "related_records": [
+      "EVAL-030"
+    ]
+  },
+  "EVAL-006": {
+    "selection_status": "Include",
+    "selection_reason": "Completed evaluation with identifiable methods, findings and source locators. Its evidence directly supports the decision use below, within the report’s stated scope.",
+    "criteria_results": {
+      "C1": "Pass",
+      "C2": "Pass",
+      "C3": "Pass",
+      "C4": "Pass",
+      "C5": "Pass",
+      "C6": "Pass",
+      "C7": "Pass",
+      "C8": "Pass"
+    },
+    "review_date": "2026-09-17",
+    "review_basis": "Editorial screening of existing summaries, source metadata and scope notes; targeted source checks. Not a full independent methodological appraisal.",
+    "evidence_type": "Developmental evaluation",
+    "evidence_family": "Evaluation",
+    "business_case_uses": [
+      "Strategic",
+      "Management"
+    ],
+    "topics": [
+      "People & culture",
+      "Readiness & resilience"
+    ],
+    "decision_use": "Test reserve-force options against roles, policy alignment, resourcing and integration into readiness plans.",
+    "transfer_boundary": "Developmental evaluation undertaken while the strategy was being drafted; it does not establish realised long-term impacts.",
+    "relevance_basis": "International defence comparator",
+    "access_level": "Full report consulted",
+    "uk_mod_relevance": "Relevant to reserve integration and readiness planning; a developmental evaluation cannot establish realised long-term benefits.",
+    "review_action": "Retain; check current applicability when using in a new business case.",
+    "related_records": []
+  },
+  "EVAL-007": {
+    "selection_status": "Include",
+    "selection_reason": "Completed evaluation with identifiable methods, findings and source locators. Its evidence directly supports the decision use below, within the report’s stated scope.",
+    "criteria_results": {
+      "C1": "Pass",
+      "C2": "Pass",
+      "C3": "Pass",
+      "C4": "Pass",
+      "C5": "Pass",
+      "C6": "Pass",
+      "C7": "Pass",
+      "C8": "Pass"
+    },
+    "review_date": "2026-09-17",
+    "review_basis": "Editorial screening of existing summaries, source metadata and scope notes; targeted source checks. Not a full independent methodological appraisal.",
+    "evidence_type": "Programme evaluation",
+    "evidence_family": "Evaluation",
+    "business_case_uses": [
+      "Economic",
+      "Management"
+    ],
+    "topics": [
+      "Innovation & industry"
+    ],
+    "decision_use": "Examine routes from innovation funding to adoption and define intermediate outcome measures.",
+    "transfer_boundary": "The departmental procurement process was outside the evaluation’s scope. Use to inform design and delivery assumptions; no transferable causal effect is established by this summary.",
+    "relevance_basis": "International defence comparator",
+    "access_level": "Full report consulted",
+    "uk_mod_relevance": "Relevant to MOD innovation funding and adoption pathways; procurement was outside the evaluation’s scope.",
+    "review_action": "Retain; check current applicability when using in a new business case.",
+    "related_records": [
+      "EVAL-046"
+    ]
+  },
+  "EVAL-008": {
+    "selection_status": "Include",
+    "selection_reason": "Completed evaluation with identifiable methods, findings and source locators. Its evidence directly supports the decision use below, within the report’s stated scope.",
+    "criteria_results": {
+      "C1": "Pass",
+      "C2": "Pass",
+      "C3": "Pass",
+      "C4": "Pass",
+      "C5": "Pass",
+      "C6": "Pass",
+      "C7": "Pass",
+      "C8": "Pass"
+    },
+    "review_date": "2026-09-17",
+    "review_basis": "Editorial screening of existing summaries, source metadata and scope notes; targeted source checks. Not a full independent methodological appraisal.",
+    "evidence_type": "Programme evaluation",
+    "evidence_family": "Evaluation",
+    "business_case_uses": [
+      "Strategic",
+      "Management",
+      "Financial"
+    ],
+    "topics": [
+      "Training & skills",
+      "Readiness & resilience"
+    ],
+    "decision_use": "Clarify defence-diplomacy objectives, programme costs and how overseas training outcomes will be measured.",
+    "transfer_boundary": "Uses the February 2024 edition. The seed has no date and a May 2019 edition also exists; the published report contains redactions. Use to inform design and delivery assumptions; no transferable causal effect is established by this summary.",
+    "relevance_basis": "International defence comparator",
+    "access_level": "Full report consulted",
+    "uk_mod_relevance": "Relevant to UK defence engagement and overseas military training; diplomacy outcomes and partner-country conditions are context-specific.",
+    "review_action": "Retain; check current applicability when using in a new business case.",
+    "related_records": []
+  },
+  "EVAL-009": {
+    "selection_status": "Include",
+    "selection_reason": "Completed evaluation with identifiable methods, findings and source locators. Its evidence directly supports the decision use below, within the report’s stated scope.",
+    "criteria_results": {
+      "C1": "Pass",
+      "C2": "Pass",
+      "C3": "Pass",
+      "C4": "Pass",
+      "C5": "Pass",
+      "C6": "Pass",
+      "C7": "Pass",
+      "C8": "Pass"
+    },
+    "review_date": "2026-09-17",
+    "review_basis": "Editorial screening of existing summaries, source metadata and scope notes; targeted source checks. Not a full independent methodological appraisal.",
+    "evidence_type": "Programme evaluation",
+    "evidence_family": "Evaluation",
+    "business_case_uses": [
+      "Strategic",
+      "Management"
+    ],
+    "topics": [
+      "Digital & data"
+    ],
+    "decision_use": "Specify data ownership, enterprise priorities and governance before investing in decision-support systems.",
+    "transfer_boundary": "An organisation-wide overview, not an in-depth assessment of each system or a formal review of separate IT and information-management functions. Use to inform design and delivery assumptions; no transferable causal effect is established by this summary.",
+    "relevance_basis": "International defence comparator",
+    "access_level": "Full report consulted",
+    "uk_mod_relevance": "Relevant to MOD data governance and decision-support investment; enterprise findings do not appraise any individual system.",
+    "review_action": "Retain; check current applicability when using in a new business case.",
+    "related_records": [
+      "EVAL-035"
+    ]
+  },
+  "EVAL-010": {
+    "selection_status": "Include",
+    "selection_reason": "Completed audit with identifiable methods, findings and source locators. Its evidence directly supports the decision use below, within the report’s stated scope.",
+    "criteria_results": {
+      "C1": "Pass",
+      "C2": "Pass",
+      "C3": "Pass",
+      "C4": "Pass",
+      "C5": "Pass",
+      "C6": "Pass",
+      "C7": "Pass",
+      "C8": "Pass"
+    },
+    "review_date": "2026-09-17",
+    "review_basis": "Editorial screening of existing summaries, source metadata and scope notes; targeted source checks. Not a full independent methodological appraisal.",
+    "evidence_type": "Value-for-money audit",
+    "evidence_family": "Audit",
+    "business_case_uses": [
+      "Management",
+      "Financial"
+    ],
+    "topics": [
+      "Acquisition & support",
+      "Readiness & resilience"
+    ],
+    "decision_use": "Include radar, resupply and support dependencies in capability delivery plans and whole-life cost assumptions.",
+    "transfer_boundary": "Assesses the position in 2020; does not evaluate military utility or operational deployment plans. Use to inform design and delivery assumptions; no transferable causal effect is established by this summary.",
+    "relevance_basis": "Direct UK evidence",
+    "access_level": "Full report consulted",
+    "uk_mod_relevance": "Direct UK evidence on Carrier Strike integration, support costs and delivery dependencies, reflecting the 2020 position.",
+    "review_action": "Retain; check current applicability when using in a new business case.",
+    "related_records": [
+      "EVAL-026"
+    ]
+  },
+  "EVAL-011": {
+    "selection_status": "Include with limits",
+    "selection_reason": "Narrow audit-body exception: factual cost-accountability evidence supports the financial and management cases. The report does not evaluate scheme management, effectiveness or value for money.",
+    "criteria_results": {
+      "C1": "Pass",
+      "C2": "Conditional",
+      "C3": "Pass",
+      "C4": "Pass",
+      "C5": "Pass",
+      "C6": "Pass",
+      "C7": "Pass",
+      "C8": "Pass"
+    },
+    "review_date": "2026-09-17",
+    "review_basis": "Editorial screening of existing summaries, source metadata and scope notes; targeted source checks. Not a full independent methodological appraisal.",
+    "evidence_type": "Factual investigation",
+    "evidence_family": "Investigation",
+    "business_case_uses": [
+      "Financial",
+      "Management"
+    ],
+    "topics": [
+      "Governance & finance"
+    ],
+    "decision_use": "Establish separate scheme cost records and traceable forecasts for emergency response spending.",
+    "transfer_boundary": "Financial information was reviewed, not audited. The investigation does not assess scheme management or value for money.",
+    "relevance_basis": "Direct UK evidence",
+    "access_level": "Full report consulted",
+    "uk_mod_relevance": "Direct MOD evidence on scheme cost recording and forecast assurance; not an effectiveness or value-for-money assessment.",
+    "review_action": "Apply the stated limits when citing; obtain fuller source detail where decision-critical.",
+    "related_records": []
+  },
+  "EVAL-012": {
+    "selection_status": "Include",
+    "selection_reason": "Completed audit with identifiable methods, findings and source locators. Its evidence directly supports the decision use below, within the report’s stated scope.",
+    "criteria_results": {
+      "C1": "Pass",
+      "C2": "Pass",
+      "C3": "Pass",
+      "C4": "Pass",
+      "C5": "Pass",
+      "C6": "Pass",
+      "C7": "Pass",
+      "C8": "Pass"
+    },
+    "review_date": "2026-09-17",
+    "review_basis": "Editorial screening of existing summaries, source metadata and scope notes; targeted source checks. Not a full independent methodological appraisal.",
+    "evidence_type": "Value-for-money audit",
+    "evidence_family": "Audit",
+    "business_case_uses": [
+      "Management",
+      "Commercial"
+    ],
+    "topics": [
+      "Acquisition & support",
+      "Digital & data"
+    ],
+    "decision_use": "Test inventory transformation options against stock data, IT, staffing and logistics dependencies.",
+    "transfer_boundary": "Summarises the position at the September 2023 report date. Use to inform design and delivery assumptions; no transferable causal effect is established by this summary.",
+    "relevance_basis": "Direct UK evidence",
+    "access_level": "Full report consulted",
+    "uk_mod_relevance": "Direct MOD evidence on inventory, logistics and transformation dependencies at the September 2023 report date.",
+    "review_action": "Retain; check current applicability when using in a new business case.",
+    "related_records": []
+  },
+  "EVAL-013": {
+    "selection_status": "Include with limits",
+    "selection_reason": "Cross-government comparator for MOD cyber dependencies; government-wide findings are not a MOD-specific performance estimate.",
+    "criteria_results": {
+      "C1": "Conditional",
+      "C2": "Pass",
+      "C3": "Pass",
+      "C4": "Pass",
+      "C5": "Pass",
+      "C6": "Pass",
+      "C7": "Pass",
+      "C8": "Pass"
+    },
+    "review_date": "2026-09-17",
+    "review_basis": "Editorial screening of existing summaries, source metadata and scope notes; targeted source checks. Not a full independent methodological appraisal.",
+    "evidence_type": "Value-for-money audit",
+    "evidence_family": "Audit",
+    "business_case_uses": [
+      "Strategic",
+      "Management"
+    ],
+    "topics": [
+      "Digital & data",
+      "Governance & finance"
+    ],
+    "decision_use": "Use government-wide cyber control and workforce gaps to challenge the feasibility of resilience plans.",
+    "transfer_boundary": "Findings and target assessments reflect the January 2025 publication, not a later assessment of target achievement. Establish a MOD-specific mechanism and context before transferring findings.",
+    "relevance_basis": "Indirect comparator",
+    "access_level": "Full report consulted",
+    "uk_mod_relevance": "Relevant to MOD dependencies on government-wide cyber controls and skills; does not isolate MOD performance.",
+    "review_action": "Apply the stated limits when citing; obtain fuller source detail where decision-critical.",
+    "related_records": [
+      "EVAL-033",
+      "EVAL-044"
+    ]
+  },
+  "EVAL-014": {
+    "selection_status": "Include",
+    "selection_reason": "Completed audit with identifiable methods, findings and source locators. Its evidence directly supports the decision use below, within the report’s stated scope. Retained for its distinct historical evidence on accommodation, contracting or estate-delivery assumptions, as specified in the decision use.",
+    "criteria_results": {
+      "C1": "Pass",
+      "C2": "Pass",
+      "C3": "Pass",
+      "C4": "Pass",
+      "C5": "Pass",
+      "C6": "Pass",
+      "C7": "Pass",
+      "C8": "Pass"
+    },
+    "review_date": "2026-09-17",
+    "review_basis": "Editorial screening of existing summaries, source metadata and scope notes; targeted source checks. Not a full independent methodological appraisal.",
+    "evidence_type": "Value-for-money audit",
+    "evidence_family": "Audit",
+    "business_case_uses": [
+      "Economic",
+      "Management",
+      "Financial"
+    ],
+    "topics": [
+      "Estates & infrastructure",
+      "People & culture"
+    ],
+    "decision_use": "Establish accommodation demand, condition and maintenance costs before comparing investment options.",
+    "transfer_boundary": "Cost and bed-space data contained significant gaps and inconsistencies; pandemic restrictions limited some fieldwork. Use to inform design and delivery assumptions; no transferable causal effect is established by this summary. Historical evidence from the 2021 report; check subsequent changes before applying it.",
+    "relevance_basis": "Direct UK evidence",
+    "access_level": "Full report consulted",
+    "uk_mod_relevance": "Direct MOD evidence on accommodation investment and asset management, using the report-period condition and demand data.",
+    "review_action": "Retain; check current applicability when using in a new business case.",
+    "related_records": [
+      "EVAL-021"
+    ]
+  },
+  "EVAL-015": {
+    "selection_status": "Include",
+    "selection_reason": "Completed audit with identifiable methods, findings and source locators. Its evidence directly supports the decision use below, within the report’s stated scope. Retained for its distinct historical evidence on accommodation, contracting or estate-delivery assumptions, as specified in the decision use.",
+    "criteria_results": {
+      "C1": "Pass",
+      "C2": "Pass",
+      "C3": "Pass",
+      "C4": "Pass",
+      "C5": "Pass",
+      "C6": "Pass",
+      "C7": "Pass",
+      "C8": "Pass"
+    },
+    "review_date": "2026-09-17",
+    "review_basis": "Editorial screening of existing summaries, source metadata and scope notes; targeted source checks. Not a full independent methodological appraisal.",
+    "evidence_type": "Value-for-money audit",
+    "evidence_family": "Audit",
+    "business_case_uses": [
+      "Commercial",
+      "Management",
+      "Financial"
+    ],
+    "topics": [
+      "Acquisition & support"
+    ],
+    "decision_use": "Challenge supplier incentives, technical maturity, contract-management capacity and affordability assumptions.",
+    "transfer_boundary": "The 20 programmes were selected purposefully; findings are not a statistical assessment of the entire equipment portfolio. Use to inform design and delivery assumptions; no transferable causal effect is established by this summary. Historical evidence from the 2021 report; check subsequent changes before applying it.",
+    "relevance_basis": "Direct UK evidence",
+    "access_level": "Full report consulted",
+    "uk_mod_relevance": "Direct MOD evidence on major equipment contracting and delivery risk; deliberately selected programmes are not representative of the whole portfolio.",
+    "review_action": "Retain; check current applicability when using in a new business case.",
+    "related_records": [
+      "EVAL-027",
+      "EVAL-028"
+    ]
+  },
+  "EVAL-016": {
+    "selection_status": "Include with limits",
+    "selection_reason": "Narrow audit-body exception: resource and delivery evidence informs stock replacement and capacity planning; effectiveness, strategic merit and value for money were outside scope.",
+    "criteria_results": {
+      "C1": "Pass",
+      "C2": "Conditional",
+      "C3": "Pass",
+      "C4": "Pass",
+      "C5": "Pass",
+      "C6": "Pass",
+      "C7": "Pass",
+      "C8": "Pass"
+    },
+    "review_date": "2026-09-17",
+    "review_basis": "Editorial screening of existing summaries, source metadata and scope notes; targeted source checks. Not a full independent methodological appraisal.",
+    "evidence_type": "Factual investigation",
+    "evidence_family": "Investigation",
+    "business_case_uses": [
+      "Financial",
+      "Management"
+    ],
+    "topics": [
+      "Readiness & resilience",
+      "Acquisition & support"
+    ],
+    "decision_use": "Account for stock replacement and training-capacity demands when planning military assistance.",
+    "transfer_boundary": "Does not assess the strategic case, value for money or effectiveness of equipment and training; some information is classified.",
+    "relevance_basis": "Direct UK evidence",
+    "access_level": "Full report consulted",
+    "uk_mod_relevance": "Direct MOD evidence on stock replacement, training capacity and resource implications of military assistance, within the investigation’s limited scope.",
+    "review_action": "Apply the stated limits when citing; obtain fuller source detail where decision-critical.",
+    "related_records": []
+  },
+  "EVAL-017": {
+    "selection_status": "Include with limits",
+    "selection_reason": "Narrow audit-body exception: operational performance evidence informs vetting capacity planning; it does not demonstrate security effectiveness.",
+    "criteria_results": {
+      "C1": "Pass",
+      "C2": "Conditional",
+      "C3": "Pass",
+      "C4": "Pass",
+      "C5": "Pass",
+      "C6": "Pass",
+      "C7": "Pass",
+      "C8": "Pass"
+    },
+    "review_date": "2026-09-17",
+    "review_basis": "Editorial screening of existing summaries, source metadata and scope notes; targeted source checks. Not a full independent methodological appraisal.",
+    "evidence_type": "Factual investigation",
+    "evidence_family": "Investigation",
+    "business_case_uses": [
+      "Management",
+      "Financial"
+    ],
+    "topics": [
+      "People & culture",
+      "Digital & data"
+    ],
+    "decision_use": "Test recruitment and mobilisation schedules against vetting capacity, demand and IT constraints.",
+    "transfer_boundary": "The investigation does not assess whether vetting effectively deters or prevents malicious access to sensitive information.",
+    "relevance_basis": "Direct UK evidence",
+    "access_level": "Full report consulted",
+    "uk_mod_relevance": "Relevant to MOD workforce and mobilisation plans that depend on security clearance; throughput evidence is not a test of vetting effectiveness.",
+    "review_action": "Apply the stated limits when citing; obtain fuller source detail where decision-critical.",
+    "related_records": []
+  },
+  "EVAL-018": {
+    "selection_status": "Include with limits",
+    "selection_reason": "Narrow audit-body exception: tested financial controls inform contract governance; no value-for-money or historical-conduct conclusion is transferred.",
+    "criteria_results": {
+      "C1": "Pass",
+      "C2": "Conditional",
+      "C3": "Pass",
+      "C4": "Pass",
+      "C5": "Pass",
+      "C6": "Pass",
+      "C7": "Pass",
+      "C8": "Pass"
+    },
+    "review_date": "2026-09-17",
+    "review_basis": "Editorial screening of existing summaries, source metadata and scope notes; targeted source checks. Not a full independent methodological appraisal.",
+    "evidence_type": "Factual investigation",
+    "evidence_family": "Investigation",
+    "business_case_uses": [
+      "Commercial",
+      "Management"
+    ],
+    "topics": [
+      "Governance & finance",
+      "Acquisition & support"
+    ],
+    "decision_use": "Design expenditure controls, payment checks and escalation arrangements for government-managed contracts.",
+    "transfer_boundary": "Examines current MODSAP and SANGCOM arrangements, not historical conduct or value for money. The smaller British Military Mission was excluded.",
+    "relevance_basis": "Direct UK evidence",
+    "access_level": "Full report consulted",
+    "uk_mod_relevance": "Direct MOD evidence on expenditure controls and contract governance; the specific international arrangements constrain wider transfer.",
+    "review_action": "Apply the stated limits when citing; obtain fuller source detail where decision-critical.",
+    "related_records": []
+  },
+  "EVAL-019": {
+    "selection_status": "Include with limits",
+    "selection_reason": "Narrow audit-body exception: governance and reporting evidence informs delivery arrangements; operational performance and the policy choice of organisational form were outside scope.",
+    "criteria_results": {
+      "C1": "Pass",
+      "C2": "Conditional",
+      "C3": "Pass",
+      "C4": "Pass",
+      "C5": "Pass",
+      "C6": "Pass",
+      "C7": "Pass",
+      "C8": "Pass"
+    },
+    "review_date": "2026-09-17",
+    "review_basis": "Editorial screening of existing summaries, source metadata and scope notes; targeted source checks. Not a full independent methodological appraisal.",
+    "evidence_type": "Factual investigation",
+    "evidence_family": "Investigation",
+    "business_case_uses": [
+      "Management",
+      "Financial"
+    ],
+    "topics": [
+      "Governance & finance",
+      "Estates & infrastructure"
+    ],
+    "decision_use": "Specify legal powers, accountability and financial reporting when changing delivery-body arrangements.",
+    "transfer_boundary": "Does not assess associations’ operational performance, value for money or the policy choice of organisational form. The seed’s domain label is retained without endorsement.",
+    "relevance_basis": "Direct UK evidence",
+    "access_level": "Full report consulted",
+    "uk_mod_relevance": "Direct MOD evidence on delivery-body accountability and financial oversight; does not evaluate reserve or cadet operational outcomes.",
+    "review_action": "Apply the stated limits when citing; obtain fuller source detail where decision-critical.",
+    "related_records": [
+      "EVAL-047"
+    ]
+  },
+  "EVAL-020": {
+    "selection_status": "Include",
+    "selection_reason": "Completed audit with identifiable methods, findings and source locators. Its evidence directly supports the decision use below, within the report’s stated scope. Retained for its distinct historical evidence on accommodation, contracting or estate-delivery assumptions, as specified in the decision use.",
+    "criteria_results": {
+      "C1": "Pass",
+      "C2": "Pass",
+      "C3": "Pass",
+      "C4": "Pass",
+      "C5": "Pass",
+      "C6": "Pass",
+      "C7": "Pass",
+      "C8": "Pass"
+    },
+    "review_date": "2026-09-17",
+    "review_basis": "Editorial screening of existing summaries, source metadata and scope notes; targeted source checks. Not a full independent methodological appraisal.",
+    "evidence_type": "Value-for-money audit",
+    "evidence_family": "Audit",
+    "business_case_uses": [
+      "Economic",
+      "Financial",
+      "Management"
+    ],
+    "topics": [
+      "Estates & infrastructure"
+    ],
+    "decision_use": "Stress-test estate consolidation benefits against disposal timing, funding and delivery constraints.",
+    "transfer_boundary": "Site visits were not possible because of pandemic restrictions. Use to inform design and delivery assumptions; no transferable causal effect is established by this summary. Historical evidence from the 2021 report; check subsequent changes before applying it.",
+    "relevance_basis": "Direct UK evidence",
+    "access_level": "Full report consulted",
+    "uk_mod_relevance": "Direct MOD evidence on estate consolidation options, delivery complexity and uncertainty in costs and benefits.",
+    "review_action": "Retain; check current applicability when using in a new business case.",
+    "related_records": [
+      "EVAL-021"
+    ]
+  },
+  "EVAL-021": {
+    "selection_status": "Include",
+    "selection_reason": "Completed audit with identifiable methods, findings and source locators. Its evidence directly supports the decision use below, within the report’s stated scope.",
+    "criteria_results": {
+      "C1": "Pass",
+      "C2": "Pass",
+      "C3": "Pass",
+      "C4": "Pass",
+      "C5": "Pass",
+      "C6": "Pass",
+      "C7": "Pass",
+      "C8": "Pass"
+    },
+    "review_date": "2026-09-17",
+    "review_basis": "Editorial screening of existing summaries, source metadata and scope notes; targeted source checks. Not a full independent methodological appraisal.",
+    "evidence_type": "Value-for-money audit",
+    "evidence_family": "Audit",
+    "business_case_uses": [
+      "Economic",
+      "Commercial",
+      "Financial"
+    ],
+    "topics": [
+      "Estates & infrastructure"
+    ],
+    "decision_use": "Compare ownership and leasing options using whole-life costs, valuation assumptions and delivery capacity.",
+    "transfer_boundary": "Published June 2026; assesses the December 2024 repurchase and subsequent plans. The historical loss is an estimated counterfactual comparison.",
+    "relevance_basis": "Direct UK evidence",
+    "access_level": "Full report consulted",
+    "uk_mod_relevance": "Direct MOD evidence on housing ownership and leasing options; estimates depend on the specific transaction and counterfactual assumptions.",
+    "review_action": "Retain; check current applicability when using in a new business case.",
+    "related_records": [
+      "EVAL-014",
+      "EVAL-020"
+    ]
+  },
+  "EVAL-022": {
+    "selection_status": "Include",
+    "selection_reason": "Completed audit with identifiable methods, findings and source locators. Its evidence directly supports the decision use below, within the report’s stated scope.",
+    "criteria_results": {
+      "C1": "Pass",
+      "C2": "Pass",
+      "C3": "Pass",
+      "C4": "Pass",
+      "C5": "Pass",
+      "C6": "Pass",
+      "C7": "Pass",
+      "C8": "Pass"
+    },
+    "review_date": "2026-09-17",
+    "review_basis": "Editorial screening of existing summaries, source metadata and scope notes; targeted source checks. Not a full independent methodological appraisal.",
+    "evidence_type": "Value-for-money audit",
+    "evidence_family": "Audit",
+    "business_case_uses": [
+      "Commercial",
+      "Management",
+      "Financial"
+    ],
+    "topics": [
+      "Acquisition & support"
+    ],
+    "decision_use": "Define safety gates, independent assurance and escalation for technically complex acquisitions.",
+    "transfer_boundary": "Describes the programme at the March 2022 report date; it is not a current programme-status assessment.",
+    "relevance_basis": "Direct UK evidence",
+    "access_level": "Full report consulted",
+    "uk_mod_relevance": "Direct MOD acquisition lessons on technical complexity, safety assurance and programme governance at March 2022.",
+    "review_action": "Retain; check current applicability when using in a new business case.",
+    "related_records": []
+  },
+  "EVAL-023": {
+    "selection_status": "Include",
+    "selection_reason": "Completed audit with identifiable methods, findings and source locators. Its evidence directly supports the decision use below, within the report’s stated scope.",
+    "criteria_results": {
+      "C1": "Pass",
+      "C2": "Pass",
+      "C3": "Pass",
+      "C4": "Pass",
+      "C5": "Pass",
+      "C6": "Pass",
+      "C7": "Pass",
+      "C8": "Pass"
+    },
+    "review_date": "2026-09-17",
+    "review_basis": "Editorial screening of existing summaries, source metadata and scope notes; targeted source checks. Not a full independent methodological appraisal.",
+    "evidence_type": "Value-for-money audit",
+    "evidence_family": "Audit",
+    "business_case_uses": [
+      "Financial",
+      "Management"
+    ],
+    "topics": [
+      "Governance & finance",
+      "Acquisition & support"
+    ],
+    "decision_use": "Test affordability against cost uncertainty, deliverable savings and independent cost assurance.",
+    "transfer_boundary": "Assesses the 2021–2031 plan using evidence collected in 2021; later spending plans are separate evaluations. Use to inform design and delivery assumptions; no transferable causal effect is established by this summary.",
+    "relevance_basis": "Direct UK evidence",
+    "access_level": "Full report consulted",
+    "uk_mod_relevance": "Direct MOD evidence on equipment portfolio affordability assumptions in the 2021–2031 plan; a historical planning cycle.",
+    "review_action": "Retain; check current applicability when using in a new business case.",
+    "related_records": [
+      "EVAL-024"
+    ]
+  },
+  "EVAL-024": {
+    "selection_status": "Include",
+    "selection_reason": "Completed audit with identifiable methods, findings and source locators. Its evidence directly supports the decision use below, within the report’s stated scope.",
+    "criteria_results": {
+      "C1": "Pass",
+      "C2": "Pass",
+      "C3": "Pass",
+      "C4": "Pass",
+      "C5": "Pass",
+      "C6": "Pass",
+      "C7": "Pass",
+      "C8": "Pass"
+    },
+    "review_date": "2026-09-17",
+    "review_basis": "Editorial screening of existing summaries, source metadata and scope notes; targeted source checks. Not a full independent methodological appraisal.",
+    "evidence_type": "Value-for-money audit",
+    "evidence_family": "Audit",
+    "business_case_uses": [
+      "Financial",
+      "Management"
+    ],
+    "topics": [
+      "Governance & finance",
+      "Acquisition & support"
+    ],
+    "decision_use": "Expose capability gaps and cost assumptions when assessing equipment portfolio affordability.",
+    "transfer_boundary": "The £16.9 billion gap is MoD’s central estimate at March 2023 and depends on assumptions; it is not a current deficit estimate.",
+    "relevance_basis": "Direct UK evidence",
+    "access_level": "Full report consulted",
+    "uk_mod_relevance": "Direct MOD evidence on cost assurance and capability trade-offs in the 2023–2033 plan; monetary gaps are historical estimates.",
+    "review_action": "Retain; check current applicability when using in a new business case.",
+    "related_records": [
+      "EVAL-023"
+    ]
+  },
+  "EVAL-025": {
+    "selection_status": "Include",
+    "selection_reason": "Completed audit with identifiable methods, findings and source locators. Its evidence directly supports the decision use below, within the report’s stated scope.",
+    "criteria_results": {
+      "C1": "Pass",
+      "C2": "Pass",
+      "C3": "Pass",
+      "C4": "Pass",
+      "C5": "Pass",
+      "C6": "Pass",
+      "C7": "Pass",
+      "C8": "Pass"
+    },
+    "review_date": "2026-09-17",
+    "review_basis": "Editorial screening of existing summaries, source metadata and scope notes; targeted source checks. Not a full independent methodological appraisal.",
+    "evidence_type": "Value-for-money audit",
+    "evidence_family": "Audit",
+    "business_case_uses": [
+      "Management",
+      "Financial"
+    ],
+    "topics": [
+      "Governance & finance"
+    ],
+    "decision_use": "Specify fraud data, ownership and follow-up controls before forecasting prevention or recovery benefits.",
+    "transfer_boundary": "Case-management datasets were incomplete and difficult to reconcile; the report does not establish the total actual loss to fraud.",
+    "relevance_basis": "Direct UK evidence",
+    "access_level": "Full report consulted",
+    "uk_mod_relevance": "Direct MOD evidence on fraud prevention, case records and organisational accountability; actual total losses were not established.",
+    "review_action": "Retain; check current applicability when using in a new business case.",
+    "related_records": []
+  },
+  "EVAL-026": {
+    "selection_status": "Include",
+    "selection_reason": "Completed audit with identifiable methods, findings and source locators. Its evidence directly supports the decision use below, within the report’s stated scope.",
+    "criteria_results": {
+      "C1": "Pass",
+      "C2": "Pass",
+      "C3": "Pass",
+      "C4": "Pass",
+      "C5": "Pass",
+      "C6": "Pass",
+      "C7": "Pass",
+      "C8": "Pass"
+    },
+    "review_date": "2026-09-17",
+    "review_basis": "Editorial screening of existing summaries, source metadata and scope notes; targeted source checks. Not a full independent methodological appraisal.",
+    "evidence_type": "Value-for-money audit",
+    "evidence_family": "Audit",
+    "business_case_uses": [
+      "Financial",
+      "Management",
+      "Economic"
+    ],
+    "topics": [
+      "Acquisition & support",
+      "Readiness & resilience"
+    ],
+    "decision_use": "Include people, infrastructure, weapons integration and support in the cost and delivery of usable capability.",
+    "transfer_boundary": "Reflects the July 2025 report. Some evidence was redacted for national security; the focus group was not representative. Use to inform design and delivery assumptions; no transferable causal effect is established by this summary.",
+    "relevance_basis": "Direct UK evidence",
+    "access_level": "Full report consulted",
+    "uk_mod_relevance": "Direct MOD evidence on F-35 whole-life costs and the dependencies needed to turn equipment into available capability.",
+    "review_action": "Retain; check current applicability when using in a new business case.",
+    "related_records": [
+      "EVAL-010",
+      "EVAL-029"
+    ]
+  },
+  "EVAL-027": {
+    "selection_status": "Include",
+    "selection_reason": "Completed evaluation with identifiable methods, findings and source locators. Its evidence directly supports the decision use below, within the report’s stated scope.",
+    "criteria_results": {
+      "C1": "Pass",
+      "C2": "Pass",
+      "C3": "Pass",
+      "C4": "Pass",
+      "C5": "Pass",
+      "C6": "Pass",
+      "C7": "Pass",
+      "C8": "Pass"
+    },
+    "review_date": "2026-09-17",
+    "review_basis": "Editorial screening of existing summaries, source metadata and scope notes; targeted source checks. Not a full independent methodological appraisal.",
+    "evidence_type": "Developmental evaluation",
+    "evidence_family": "Evaluation",
+    "business_case_uses": [
+      "Commercial",
+      "Management"
+    ],
+    "topics": [
+      "Acquisition & support"
+    ],
+    "decision_use": "Check whether acquisition reform has the data, authority, workforce and processes needed to function.",
+    "transfer_boundary": "Developmental advice and synthesis, not a causal test proving that the new procurement routes improve outcomes. Canadian authorities differ from UK arrangements.",
+    "relevance_basis": "International defence comparator",
+    "access_level": "Full report consulted",
+    "uk_mod_relevance": "A close institutional comparator for MOD acquisition reform, particularly incremental capability upgrades and procurement of rapidly changing technology.",
+    "review_action": "Retain; check current applicability when using in a new business case.",
+    "related_records": [
+      "EVAL-015"
+    ]
+  },
+  "EVAL-028": {
+    "selection_status": "Include with limits",
+    "selection_reason": "Official highlights and methods support entry-criteria lessons; the full PDF was linked but not inspected in the source work.",
+    "criteria_results": {
+      "C1": "Pass",
+      "C2": "Pass",
+      "C3": "Pass",
+      "C4": "Conditional",
+      "C5": "Pass",
+      "C6": "Pass",
+      "C7": "Pass",
+      "C8": "Pass"
+    },
+    "review_date": "2026-09-17",
+    "review_basis": "Editorial screening of existing summaries, source metadata and scope notes; targeted source checks. Not a full independent methodological appraisal.",
+    "evidence_type": "Performance audit",
+    "evidence_family": "Audit",
+    "business_case_uses": [
+      "Commercial",
+      "Management"
+    ],
+    "topics": [
+      "Acquisition & support",
+      "Innovation & industry"
+    ],
+    "decision_use": "Challenge technology maturity and schedule assumptions before committing to rapid acquisition routes.",
+    "transfer_boundary": "Portfolio audit, not a controlled comparison of procurement routes. US scale and rules differ. Findings reflect this report's evidence period.",
+    "relevance_basis": "International defence comparator",
+    "access_level": "Summary / extract / highlights",
+    "uk_mod_relevance": "Supports scrutiny of MOD fast-track acquisition, technology readiness, incremental delivery and realistic entry criteria for major programmes.",
+    "review_action": "Apply the stated limits when citing; obtain fuller source detail where decision-critical.",
+    "related_records": [
+      "EVAL-015"
+    ]
+  },
+  "EVAL-029": {
+    "selection_status": "Include",
+    "selection_reason": "Completed audit with identifiable methods, findings and source locators. Its evidence directly supports the decision use below, within the report’s stated scope.",
+    "criteria_results": {
+      "C1": "Pass",
+      "C2": "Pass",
+      "C3": "Pass",
+      "C4": "Pass",
+      "C5": "Pass",
+      "C6": "Pass",
+      "C7": "Pass",
+      "C8": "Pass"
+    },
+    "review_date": "2026-09-17",
+    "review_basis": "Editorial screening of existing summaries, source metadata and scope notes; targeted source checks. Not a full independent methodological appraisal.",
+    "evidence_type": "Value-for-money audit",
+    "evidence_family": "Audit",
+    "business_case_uses": [
+      "Management",
+      "Economic"
+    ],
+    "topics": [
+      "Acquisition & support",
+      "Readiness & resilience"
+    ],
+    "decision_use": "Define capability acceptance around personnel, training, infrastructure and support, alongside equipment delivery.",
+    "transfer_boundary": "Historical evidence, not a statement of present MOD performance. Eight cases were deliberately selected and are not representative of all programmes. Use to inform design and delivery assumptions; no transferable causal effect is established by this summary.",
+    "relevance_basis": "Direct UK evidence",
+    "access_level": "Full report consulted",
+    "uk_mod_relevance": "Direct UK evidence connecting equipment, trained personnel, infrastructure and support to usable capability, beyond procurement cost alone.",
+    "review_action": "Retain; check current applicability when using in a new business case.",
+    "related_records": [
+      "EVAL-026"
+    ]
+  },
+  "EVAL-030": {
+    "selection_status": "Include",
+    "selection_reason": "Completed evaluation with identifiable methods, findings and source locators. Its evidence directly supports the decision use below, within the report’s stated scope.",
+    "criteria_results": {
+      "C1": "Pass",
+      "C2": "Pass",
+      "C3": "Pass",
+      "C4": "Pass",
+      "C5": "Pass",
+      "C6": "Pass",
+      "C7": "Pass",
+      "C8": "Pass"
+    },
+    "review_date": "2026-09-17",
+    "review_basis": "Editorial screening of existing summaries, source metadata and scope notes; targeted source checks. Not a full independent methodological appraisal.",
+    "evidence_type": "Developmental evaluation",
+    "evidence_family": "Evaluation",
+    "business_case_uses": [
+      "Strategic",
+      "Management"
+    ],
+    "topics": [
+      "People & culture"
+    ],
+    "decision_use": "Design recruitment pilots around entry bottlenecks and measurement of additional recruits and retention.",
+    "transfer_boundary": "Early pilot evaluation; it does not establish long-term retention or net additional recruitment. No counterfactual effect estimate.",
+    "relevance_basis": "International defence comparator",
+    "access_level": "Full report consulted",
+    "uk_mod_relevance": "Useful to UK trials of shorter initial service experiences and recruitment pathways, especially where service-level initiatives depend on shared enabling processes.",
+    "review_action": "Retain; check current applicability when using in a new business case.",
+    "related_records": [
+      "EVAL-005"
+    ]
+  },
+  "EVAL-031": {
+    "selection_status": "Include with limits",
+    "selection_reason": "Official public summary supports planning lessons; the underlying restricted report and detailed methods were unavailable.",
+    "criteria_results": {
+      "C1": "Pass",
+      "C2": "Pass",
+      "C3": "Pass",
+      "C4": "Conditional",
+      "C5": "Pass",
+      "C6": "Pass",
+      "C7": "Pass",
+      "C8": "Pass"
+    },
+    "review_date": "2026-09-17",
+    "review_basis": "Editorial screening of existing summaries, source metadata and scope notes; targeted source checks. Not a full independent methodological appraisal.",
+    "evidence_type": "Performance audit",
+    "evidence_family": "Audit",
+    "business_case_uses": [
+      "Strategic",
+      "Management"
+    ],
+    "topics": [
+      "Readiness & resilience"
+    ],
+    "decision_use": "Identify civilian dependencies, responsibilities and exercise learning needed for national and allied readiness.",
+    "transfer_boundary": "The underlying report is classified RESTRICTED. Assessment here uses the official public English summary; operational detail and full methods are unavailable in that source.",
+    "relevance_basis": "International defence comparator",
+    "access_level": "Summary / extract / highlights",
+    "uk_mod_relevance": "Highly relevant to UK whole-of-society preparedness, host-nation support and the civilian dependencies of NATO reinforcement.",
+    "review_action": "Apply the stated limits when citing; obtain fuller source detail where decision-critical.",
+    "related_records": [
+      "EVAL-042"
+    ]
+  },
+  "EVAL-032": {
+    "selection_status": "Include",
+    "selection_reason": "Completed audit with identifiable methods, findings and source locators. Its evidence directly supports the decision use below, within the report’s stated scope.",
+    "criteria_results": {
+      "C1": "Pass",
+      "C2": "Pass",
+      "C3": "Pass",
+      "C4": "Pass",
+      "C5": "Pass",
+      "C6": "Pass",
+      "C7": "Pass",
+      "C8": "Pass"
+    },
+    "review_date": "2026-09-17",
+    "review_basis": "Editorial screening of existing summaries, source metadata and scope notes; targeted source checks. Not a full independent methodological appraisal.",
+    "evidence_type": "Performance audit",
+    "evidence_family": "Audit",
+    "business_case_uses": [
+      "Commercial",
+      "Management"
+    ],
+    "topics": [
+      "Innovation & industry",
+      "Acquisition & support"
+    ],
+    "decision_use": "Specify lower-tier supplier visibility, ownership and resources in industrial resilience options.",
+    "transfer_boundary": "An audit of visibility and governance, not proof that a particular disclosure requirement reduces disruption. US sourcing restrictions differ from UK rules. Use to inform design and delivery assumptions; no transferable causal effect is established by this summary.",
+    "relevance_basis": "International defence comparator",
+    "access_level": "Full report consulted",
+    "uk_mod_relevance": "Informs MOD approaches to critical materials, lower-tier supplier visibility and industrial resilience.",
+    "review_action": "Retain; check current applicability when using in a new business case.",
+    "related_records": []
+  },
+  "EVAL-033": {
+    "selection_status": "Include with limits",
+    "selection_reason": "Civilian cyber-assurance comparator with non-random groups and self-reported outcomes; does not establish a defence-supplier effect or resilience to military threats.",
+    "criteria_results": {
+      "C1": "Conditional",
+      "C2": "Pass",
+      "C3": "Pass",
+      "C4": "Pass",
+      "C5": "Pass",
+      "C6": "Pass",
+      "C7": "Pass",
+      "C8": "Pass"
+    },
+    "review_date": "2026-09-17",
+    "review_basis": "Editorial screening of existing summaries, source metadata and scope notes; targeted source checks. Not a full independent methodological appraisal.",
+    "evidence_type": "Impact / value-for-money evaluation",
+    "evidence_family": "Evaluation",
+    "business_case_uses": [
+      "Economic",
+      "Commercial",
+      "Management"
+    ],
+    "topics": [
+      "Digital & data",
+      "Innovation & industry"
+    ],
+    "decision_use": "Assess baseline supplier cyber assurance and design evaluation of behavioural change and security outcomes.",
+    "transfer_boundary": "Non-random comparison groups and self-reported outcomes limit attribution. Certification against common threats does not demonstrate resilience to sophisticated military threats. Establish a MOD-specific mechanism and context before transferring findings.",
+    "relevance_basis": "Indirect comparator",
+    "access_level": "Full report consulted",
+    "uk_mod_relevance": "Transferable UK evidence for assessing baseline cyber assurance among defence suppliers; the study was not a defence-supplier evaluation.",
+    "review_action": "Apply the stated limits when citing; obtain fuller source detail where decision-critical.",
+    "related_records": [
+      "EVAL-013",
+      "EVAL-035"
+    ]
+  },
+  "EVAL-034": {
+    "selection_status": "Include",
+    "selection_reason": "Completed audit with identifiable methods, findings and source locators. Its evidence directly supports the decision use below, within the report’s stated scope.",
+    "criteria_results": {
+      "C1": "Pass",
+      "C2": "Pass",
+      "C3": "Pass",
+      "C4": "Pass",
+      "C5": "Pass",
+      "C6": "Pass",
+      "C7": "Pass",
+      "C8": "Pass"
+    },
+    "review_date": "2026-09-17",
+    "review_basis": "Editorial screening of existing summaries, source metadata and scope notes; targeted source checks. Not a full independent methodological appraisal.",
+    "evidence_type": "Performance audit",
+    "evidence_family": "Audit",
+    "business_case_uses": [
+      "Commercial",
+      "Management"
+    ],
+    "topics": [
+      "Acquisition & support",
+      "Innovation & industry"
+    ],
+    "decision_use": "Build early tester involvement, iterative testing and user feedback into acquisition governance.",
+    "transfer_boundary": "An audit of the testing system, included within the agreed audit scope; it is not a technical test of a weapon. Selected cases do not represent every programme. Use to inform design and delivery assumptions; no transferable causal effect is established by this summary.",
+    "relevance_basis": "International defence comparator",
+    "access_level": "Full report consulted",
+    "uk_mod_relevance": "A useful comparator for implementing MOD testing reform and aligning it with acquisition decisions.",
+    "review_action": "Retain; check current applicability when using in a new business case.",
+    "related_records": []
+  },
+  "EVAL-035": {
+    "selection_status": "Include with limits",
+    "selection_reason": "Official English summary supports delivery-risk lessons; detailed methods are absent and it was too early to judge many measures’ effects.",
+    "criteria_results": {
+      "C1": "Pass",
+      "C2": "Pass",
+      "C3": "Pass",
+      "C4": "Conditional",
+      "C5": "Pass",
+      "C6": "Pass",
+      "C7": "Pass",
+      "C8": "Pass"
+    },
+    "review_date": "2026-09-17",
+    "review_basis": "Editorial screening of existing summaries, source metadata and scope notes; targeted source checks. Not a full independent methodological appraisal.",
+    "evidence_type": "Performance audit",
+    "evidence_family": "Audit",
+    "business_case_uses": [
+      "Management",
+      "Commercial"
+    ],
+    "topics": [
+      "Digital & data",
+      "Readiness & resilience"
+    ],
+    "decision_use": "Test operational IT plans against interoperability, cyber assurance, skills and supplier delivery risks.",
+    "transfer_boundary": "English summary of an unclassified report; underlying security detail is limited. The auditor explicitly says it is too early to judge many measures' effects.",
+    "relevance_basis": "International defence comparator",
+    "access_level": "Summary / extract / highlights",
+    "uk_mod_relevance": "Relevant to UK operational data-sharing, secure digital infrastructure and assurance of large ICT partnerships.",
+    "review_action": "Apply the stated limits when citing; obtain fuller source detail where decision-critical.",
+    "related_records": [
+      "EVAL-009",
+      "EVAL-033"
+    ]
+  },
+  "EVAL-036": {
+    "selection_status": "Include",
+    "selection_reason": "Completed evaluation with identifiable methods, findings and source locators. Its evidence directly supports the decision use below, within the report’s stated scope.",
+    "criteria_results": {
+      "C1": "Pass",
+      "C2": "Pass",
+      "C3": "Pass",
+      "C4": "Pass",
+      "C5": "Pass",
+      "C6": "Pass",
+      "C7": "Pass",
+      "C8": "Pass"
+    },
+    "review_date": "2026-09-17",
+    "review_basis": "Editorial screening of existing summaries, source metadata and scope notes; targeted source checks. Not a full independent methodological appraisal.",
+    "evidence_type": "Programme evaluation",
+    "evidence_family": "Evaluation",
+    "business_case_uses": [
+      "Commercial",
+      "Management",
+      "Economic"
+    ],
+    "topics": [
+      "Acquisition & support"
+    ],
+    "decision_use": "Assess support-contracting options against business-case capacity, accountability and performance measures.",
+    "transfer_boundary": "Early outcomes rather than mature impacts; focused on DND activities and did not interview industry representatives. Evidence predates later reforms. Use to inform design and delivery assumptions; no transferable causal effect is established by this summary.",
+    "relevance_basis": "International defence comparator",
+    "access_level": "Full report consulted",
+    "uk_mod_relevance": "Relevant to MOD support contracting and balancing availability, flexibility, industrial benefits and whole-life value.",
+    "review_action": "Retain; check current applicability when using in a new business case.",
+    "related_records": []
+  },
+  "EVAL-037": {
+    "selection_status": "Include with limits",
+    "selection_reason": "Official English summary supports capacity and resource trade-offs; Dutch legal duties differ and past request delivery does not establish surge capacity.",
+    "criteria_results": {
+      "C1": "Pass",
+      "C2": "Pass",
+      "C3": "Pass",
+      "C4": "Conditional",
+      "C5": "Pass",
+      "C6": "Pass",
+      "C7": "Pass",
+      "C8": "Pass"
+    },
+    "review_date": "2026-09-17",
+    "review_basis": "Editorial screening of existing summaries, source metadata and scope notes; targeted source checks. Not a full independent methodological appraisal.",
+    "evidence_type": "Performance audit",
+    "evidence_family": "Audit",
+    "business_case_uses": [
+      "Strategic",
+      "Management",
+      "Financial"
+    ],
+    "topics": [
+      "Readiness & resilience"
+    ],
+    "decision_use": "Make resource trade-offs explicit between civil assistance, warfighting and allied commitments.",
+    "transfer_boundary": "Official English report summary; Dutch legal tasks and arrangements differ from UK MACA. Effective delivery of past requests does not establish surge capacity.",
+    "relevance_basis": "International defence comparator",
+    "access_level": "Summary / extract / highlights",
+    "uk_mod_relevance": "A close comparator for UK Military Aid to the Civil Authorities and trade-offs with warfighting and allied commitments.",
+    "review_action": "Apply the stated limits when citing; obtain fuller source detail where decision-critical.",
+    "related_records": []
+  },
+  "EVAL-038": {
+    "selection_status": "Include",
+    "selection_reason": "Completed evaluation with identifiable methods, findings and source locators. Its evidence directly supports the decision use below, within the report’s stated scope.",
+    "criteria_results": {
+      "C1": "Pass",
+      "C2": "Pass",
+      "C3": "Pass",
+      "C4": "Pass",
+      "C5": "Pass",
+      "C6": "Pass",
+      "C7": "Pass",
+      "C8": "Pass"
+    },
+    "review_date": "2026-09-17",
+    "review_basis": "Editorial screening of existing summaries, source metadata and scope notes; targeted source checks. Not a full independent methodological appraisal.",
+    "evidence_type": "Programme evaluation",
+    "evidence_family": "Evaluation",
+    "business_case_uses": [
+      "Strategic",
+      "Management"
+    ],
+    "topics": [
+      "Readiness & resilience",
+      "Estates & infrastructure"
+    ],
+    "decision_use": "Distinguish exercise activity from contingency readiness and test cold-weather infrastructure dependencies.",
+    "transfer_boundary": "Canadian geography and sovereignty responsibilities differ substantially. Threat judgements reflect the evaluation period; methods are described across findings rather than in a standalone annex. Use to inform design and delivery assumptions; no transferable causal effect is established by this summary.",
+    "relevance_basis": "International defence comparator",
+    "access_level": "Full report consulted",
+    "uk_mod_relevance": "Relevant to UK High North activity and interoperability with allies, especially cold-weather support and the distinction between exercises and contingency readiness.",
+    "review_action": "Retain; check current applicability when using in a new business case.",
+    "related_records": []
+  },
+  "EVAL-039": {
+    "selection_status": "Include",
+    "selection_reason": "Completed evaluation with identifiable methods, findings and source locators. Its evidence directly supports the decision use below, within the report’s stated scope.",
+    "criteria_results": {
+      "C1": "Pass",
+      "C2": "Pass",
+      "C3": "Pass",
+      "C4": "Pass",
+      "C5": "Pass",
+      "C6": "Pass",
+      "C7": "Pass",
+      "C8": "Pass"
+    },
+    "review_date": "2026-09-17",
+    "review_basis": "Editorial screening of existing summaries, source metadata and scope notes; targeted source checks. Not a full independent methodological appraisal.",
+    "evidence_type": "Programme evaluation",
+    "evidence_family": "Evaluation",
+    "business_case_uses": [
+      "Strategic",
+      "Management"
+    ],
+    "topics": [
+      "People & culture"
+    ],
+    "decision_use": "Specify leadership accountability, trusted reporting and outcome measures for defence culture programmes.",
+    "transfer_boundary": "Observational evidence cannot isolate the effect of individual reforms. The managers' survey was purposive and self-selected; the analysis combines military and civilian experience. Use to inform design and delivery assumptions; no transferable causal effect is established by this summary.",
+    "relevance_basis": "International defence comparator",
+    "access_level": "Full report consulted",
+    "uk_mod_relevance": "Relevant to UK defence culture reform, complaints handling, leadership development and assessing the effects of mandatory training.",
+    "review_action": "Retain; check current applicability when using in a new business case.",
+    "related_records": []
+  },
+  "EVAL-040": {
+    "selection_status": "Include with limits",
+    "selection_reason": "Official English summary supports workforce dependency lessons; detailed methods are absent and the conscription model differs from the UK.",
+    "criteria_results": {
+      "C1": "Pass",
+      "C2": "Pass",
+      "C3": "Pass",
+      "C4": "Conditional",
+      "C5": "Pass",
+      "C6": "Pass",
+      "C7": "Pass",
+      "C8": "Pass"
+    },
+    "review_date": "2026-09-17",
+    "review_basis": "Editorial screening of existing summaries, source metadata and scope notes; targeted source checks. Not a full independent methodological appraisal.",
+    "evidence_type": "Performance audit",
+    "evidence_family": "Audit",
+    "business_case_uses": [
+      "Strategic",
+      "Management"
+    ],
+    "topics": [
+      "People & culture",
+      "Readiness & resilience"
+    ],
+    "decision_use": "Match force-growth options to accommodation, equipment, training capacity and retention requirements.",
+    "transfer_boundary": "English summary only. Conscription is a major recruitment source in Sweden, unlike the UK. The evaluation predates Sweden's NATO accession in March 2024.",
+    "relevance_basis": "International defence comparator",
+    "access_level": "Summary / extract / highlights",
+    "uk_mod_relevance": "Relevant to matching UK force-growth ambitions with accommodation, equipment, training capacity and retention.",
+    "review_action": "Apply the stated limits when citing; obtain fuller source detail where decision-critical.",
+    "related_records": []
+  },
+  "EVAL-041": {
+    "selection_status": "Include with limits",
+    "selection_reason": "Audit synthesis supports organisational design questions; the English wording is an analyst translation of German material, requiring source-language checking for decision-critical claims.",
+    "criteria_results": {
+      "C1": "Pass",
+      "C2": "Pass",
+      "C3": "Pass",
+      "C4": "Conditional",
+      "C5": "Pass",
+      "C6": "Pass",
+      "C7": "Pass",
+      "C8": "Pass"
+    },
+    "review_date": "2026-09-17",
+    "review_basis": "Editorial screening of existing summaries, source metadata and scope notes; targeted source checks. Not a full independent methodological appraisal.",
+    "evidence_type": "Audit synthesis",
+    "evidence_family": "Audit",
+    "business_case_uses": [
+      "Strategic",
+      "Management",
+      "Financial"
+    ],
+    "topics": [
+      "People & culture",
+      "Governance & finance"
+    ],
+    "decision_use": "Test whether workforce and organisational changes translate extra resources into deployable capability.",
+    "transfer_boundary": "Audit synthesis, not a causal impact evaluation. German public-service and force structures differ. English title and summary are analyst translations, not official translations.",
+    "relevance_basis": "International defence comparator",
+    "access_level": "Full report consulted",
+    "uk_mod_relevance": "Relevant to UK defence reform and distinguishing increased expenditure or headcount from deployable capability.",
+    "review_action": "Apply the stated limits when citing; obtain fuller source detail where decision-critical.",
+    "related_records": []
+  },
+  "EVAL-042": {
+    "selection_status": "Include with limits",
+    "selection_reason": "Official English summary provides an indirect civil-defence comparator; detailed methods are absent and governance does not map directly to MOD.",
+    "criteria_results": {
+      "C1": "Conditional",
+      "C2": "Pass",
+      "C3": "Pass",
+      "C4": "Conditional",
+      "C5": "Pass",
+      "C6": "Pass",
+      "C7": "Pass",
+      "C8": "Pass"
+    },
+    "review_date": "2026-09-17",
+    "review_basis": "Editorial screening of existing summaries, source metadata and scope notes; targeted source checks. Not a full independent methodological appraisal.",
+    "evidence_type": "Performance audit",
+    "evidence_family": "Audit",
+    "business_case_uses": [
+      "Strategic",
+      "Management",
+      "Financial"
+    ],
+    "topics": [
+      "Readiness & resilience"
+    ],
+    "decision_use": "Specify civilian support outcomes, stable funding and responsibilities across public and private partners.",
+    "transfer_boundary": "English summary only. Civil defence is broader than MOD's remit, and Swedish sector governance does not map directly to UK arrangements. Establish a MOD-specific mechanism and context before transferring findings.",
+    "relevance_basis": "Indirect comparator",
+    "access_level": "Summary / extract / highlights",
+    "uk_mod_relevance": "Useful to MOD and cross-government resilience teams designing the civilian support and essential services on which military operations depend.",
+    "review_action": "Apply the stated limits when citing; obtain fuller source detail where decision-critical.",
+    "related_records": [
+      "EVAL-031"
+    ]
+  },
+  "EVAL-043": {
+    "selection_status": "Include with limits",
+    "selection_reason": "Official English extract supports inspection-action governance; security detail and detailed methods are unavailable.",
+    "criteria_results": {
+      "C1": "Pass",
+      "C2": "Pass",
+      "C3": "Pass",
+      "C4": "Conditional",
+      "C5": "Pass",
+      "C6": "Pass",
+      "C7": "Pass",
+      "C8": "Pass"
+    },
+    "review_date": "2026-09-17",
+    "review_basis": "Editorial screening of existing summaries, source metadata and scope notes; targeted source checks. Not a full independent methodological appraisal.",
+    "evidence_type": "Performance audit",
+    "evidence_family": "Audit",
+    "business_case_uses": [
+      "Management"
+    ],
+    "topics": [
+      "Estates & infrastructure",
+      "Governance & finance"
+    ],
+    "decision_use": "Assign ownership and prioritisation of inspection actions in protective-security investment plans.",
+    "transfer_boundary": "Official English introduction/conclusion extract only; security details are deliberately withheld or anonymised. The extract does not establish the position after publication.",
+    "relevance_basis": "International defence comparator",
+    "access_level": "Summary / extract / highlights",
+    "uk_mod_relevance": "Relevant to defence-estate assurance, ownership of inspection actions and prioritising protective-security investment.",
+    "review_action": "Apply the stated limits when citing; obtain fuller source detail where decision-critical.",
+    "related_records": []
+  },
+  "EVAL-044": {
+    "selection_status": "Include",
+    "selection_reason": "Completed evaluation with identifiable methods, findings and source locators. Its evidence directly supports the decision use below, within the report’s stated scope.",
+    "criteria_results": {
+      "C1": "Pass",
+      "C2": "Pass",
+      "C3": "Pass",
+      "C4": "Pass",
+      "C5": "Pass",
+      "C6": "Pass",
+      "C7": "Pass",
+      "C8": "Pass"
+    },
+    "review_date": "2026-09-17",
+    "review_basis": "Editorial screening of existing summaries, source metadata and scope notes; targeted source checks. Not a full independent methodological appraisal.",
+    "evidence_type": "Programme evaluation",
+    "evidence_family": "Evaluation",
+    "business_case_uses": [
+      "Strategic",
+      "Management"
+    ],
+    "topics": [
+      "Digital & data",
+      "People & culture"
+    ],
+    "decision_use": "Test cyber workforce plans against recruitment, clearance, procurement and role-definition constraints.",
+    "transfer_boundary": "Early-stage and historical evaluation; substantial redactions and security-related scope restrictions. It is not a current assessment of Canadian cyber capability.",
+    "relevance_basis": "International defence comparator",
+    "access_level": "Full report consulted",
+    "uk_mod_relevance": "Useful to UK cyber force development, specialist workforce planning and integration of cyber assurance across defence.",
+    "review_action": "Retain; check current applicability when using in a new business case.",
+    "related_records": [
+      "EVAL-013"
+    ]
+  },
+  "EVAL-045": {
+    "selection_status": "Include",
+    "selection_reason": "Completed evaluation with identifiable methods, findings and source locators. Its evidence directly supports the decision use below, within the report’s stated scope.",
+    "criteria_results": {
+      "C1": "Pass",
+      "C2": "Pass",
+      "C3": "Pass",
+      "C4": "Pass",
+      "C5": "Pass",
+      "C6": "Pass",
+      "C7": "Pass",
+      "C8": "Pass"
+    },
+    "review_date": "2026-09-17",
+    "review_basis": "Editorial screening of existing summaries, source metadata and scope notes; targeted source checks. Not a full independent methodological appraisal.",
+    "evidence_type": "Qualitative evaluation",
+    "evidence_family": "Evaluation",
+    "business_case_uses": [
+      "Strategic",
+      "Economic",
+      "Management"
+    ],
+    "topics": [
+      "People & culture"
+    ],
+    "decision_use": "Test the additionality assumptions and employer decision pathways behind veteran hiring incentives.",
+    "transfer_boundary": "Small, non-representative claimant sample without a counterfactual group. Findings cannot establish that the relief has no effect for all employers or veterans.",
+    "relevance_basis": "Direct UK evidence",
+    "access_level": "Full report consulted",
+    "uk_mod_relevance": "Directly relevant to service-leaver employment and cooperation between MOD, employers and other government departments.",
+    "review_action": "Retain; check current applicability when using in a new business case.",
+    "related_records": []
+  },
+  "EVAL-046": {
+    "selection_status": "Include with limits",
+    "selection_reason": "Civilian accelerator comparator; benefit persistence and omitted costs limit transfer of value-for-money estimates to defence innovation.",
+    "criteria_results": {
+      "C1": "Conditional",
+      "C2": "Pass",
+      "C3": "Pass",
+      "C4": "Pass",
+      "C5": "Pass",
+      "C6": "Pass",
+      "C7": "Pass",
+      "C8": "Pass"
+    },
+    "review_date": "2026-09-17",
+    "review_basis": "Editorial screening of existing summaries, source metadata and scope notes; targeted source checks. Not a full independent methodological appraisal.",
+    "evidence_type": "Process / impact / value-for-money evaluation",
+    "evidence_family": "Evaluation",
+    "business_case_uses": [
+      "Economic",
+      "Management"
+    ],
+    "topics": [
+      "Innovation & industry"
+    ],
+    "decision_use": "Challenge accelerator benefit persistence and adoption pathways before transferring value-for-money assumptions.",
+    "transfer_boundary": "Selection, recall and response biases; unsuccessful applicants may differ systematically. Value-for-money results rely on assumptions about persistent benefits and omit some costs. Establish a MOD-specific mechanism and context before transferring findings.",
+    "relevance_basis": "Indirect comparator",
+    "access_level": "Full report consulted",
+    "uk_mod_relevance": "Transferable evidence for defence innovation accelerators and SME support, rather than an evaluation of DASA or military capability adoption.",
+    "review_action": "Apply the stated limits when citing; obtain fuller source detail where decision-critical.",
+    "related_records": [
+      "EVAL-007"
+    ]
+  },
+  "EVAL-047": {
+    "selection_status": "Include with limits",
+    "selection_reason": "Older evidence retained by exception because it addresses UK cadet outcomes and implementation directly. Matched comparisons do not remove unobserved selection; no causal claim is justified.",
+    "criteria_results": {
+      "C1": "Pass",
+      "C2": "Pass",
+      "C3": "Pass",
+      "C4": "Pass",
+      "C5": "Pass",
+      "C6": "Pass",
+      "C7": "Conditional",
+      "C8": "Pass"
+    },
+    "review_date": "2026-09-17",
+    "review_basis": "Editorial screening of existing summaries, source metadata and scope notes; targeted source checks. Not a full independent methodological appraisal.",
+    "evidence_type": "Process / matched-comparison evaluation",
+    "evidence_family": "Evaluation",
+    "business_case_uses": [
+      "Economic",
+      "Management"
+    ],
+    "topics": [
+      "Training & skills",
+      "People & culture"
+    ],
+    "decision_use": "Challenge cadet expansion outcome claims and allow for staffing, funding and implementation lead times.",
+    "transfer_boundary": "Older exception: mainly 2014–2016 research using historical attainment data. Unobserved selection remains; the authors explicitly caution against causal inference.",
+    "relevance_basis": "Direct UK evidence",
+    "access_level": "Full report consulted",
+    "uk_mod_relevance": "Directly relevant to cadet provision and to evaluating expansion claims with comparative evidence.",
+    "review_action": "Apply the stated limits when citing; obtain fuller source detail where decision-critical.",
+    "related_records": [
+      "EVAL-019"
+    ]
+  }
+}
