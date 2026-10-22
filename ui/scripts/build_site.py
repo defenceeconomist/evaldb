@@ -57,7 +57,7 @@ if (ROOT.parent/'outputs').is_dir():(ROOT.parent/'outputs/content_review.csv').w
 esc=lambda s:html.escape(str(s),quote=True)
 counts=Counter(r['selection_status'] for r in records)
 table=''.join(f'''<tr id="{r['evaluation_id']}"><td><a href="../evaluation.html?id={r['evaluation_id']}">{r['evaluation_id']}</a><br><strong>{esc(r['source_title'])}</strong><br><span class="muted">{esc(r['evidence_type'])}</span></td><td><span class="badge {'limited' if r['selection_status']=='Include with limits' else ''}">{esc(r['selection_status'])}</span><p>{esc(r['selection_reason'])}</p><small>{esc(flat(r['criteria_results']))}</small></td><td><p>{esc(r['decision_use'])}</p><p class="muted">{esc(r['transfer_boundary'])}</p></td></tr>''' for r in records)
-pages=[('index','About this library'),('selection-criteria','Selection criteria'),('content-review','Content review'),('using-evidence','Using the evidence'),('design-decisions','Design decisions'),('maintenance','Maintaining the library')]
+pages=[('index','About this library'),('selection-criteria','Selection criteria'),('content-review','Content review'),('using-evidence','Using the evidence'),('data-dictionary','Data dictionary'),('design-decisions','Design decisions'),('maintenance','Maintaining the library')]
 favicon=re.search(r'<link rel="icon"[^>]+>',(DIST/'index.html').read_text()).group(0)
 for slug,title in pages:
  content=(ROOT/'docs'/f'{slug}.html').read_text().replace('{{REVIEW_ROWS}}',table).replace('{{RECORD_COUNT}}',str(len(records))).replace('{{INCLUDE_COUNT}}',str(counts['Include'])).replace('{{LIMIT_COUNT}}',str(counts['Include with limits']))
