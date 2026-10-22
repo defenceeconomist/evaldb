@@ -13,12 +13,12 @@ const chips = values => values.map(v=>`<span class="chip">${escapeHTML(v)}</span
 
 function listParams(params) {
   const clean = new URLSearchParams();
-  for (const key of ['q','sort','topic','type','country','access']) if (params.get(key)) clean.set(key,params.get(key));
+  for (const key of ['q','sort','topic','type','country']) if (params.get(key)) clean.set(key,params.get(key));
   return clean;
 }
 if (document.body.dataset.page === 'list') {
   const search = document.getElementById('search'), sort = document.getElementById('sort');
-  const filterFields = {topic:'topics',type:'evidence_type',country:'country',access:'access_level'};
+  const filterFields = {topic:'topics',type:'evidence_type',country:'country'};
   const filters = Object.fromEntries(Object.keys(filterFields).map(key => [key,document.getElementById(`${key}-filter`)]));
   for (const [key,field] of Object.entries(filterFields)) {
     const values = [...new Set(records.flatMap(r => Array.isArray(r[field]) ? r[field] : [r[field]]))].filter(Boolean).sort();

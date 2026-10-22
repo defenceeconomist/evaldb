@@ -11,9 +11,9 @@ const browser=await chromium.launch({channel:'chrome',headless:true});
 const page=await browser.newPage({viewport:{width:1440,height:1000},acceptDownloads:true});const errors=[];page.on('pageerror',e=>errors.push(e.message));
 try {
  await page.goto(base);assert.equal(await page.locator('#evaluation-list tr').count(),28);
- assert.equal(await page.locator('[data-save],#view-saved,#case-filter').count(),0);assert.equal(await page.locator('.records-table th').count(),6);
+ assert.equal(await page.locator('[data-save],#view-saved,#case-filter,#access-filter').count(),0);assert.equal(await page.locator('.records-table th').count(),6);
  await page.screenshot({path:path.join(output,'library-desktop.png')});
- const filterSpec={topic:'topics',type:'evidence_type',country:'country',access:'access_level'};
+ const filterSpec={topic:'topics',type:'evidence_type',country:'country'};
  for(const [key,field] of Object.entries(filterSpec)){
   const value=Array.isArray(records[0][field])?records[0][field][0]:records[0][field];
   await page.locator('#'+key+'-filter').selectOption(value);
